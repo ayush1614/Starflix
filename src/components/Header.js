@@ -21,6 +21,21 @@ function Header() {
                     <img src="/images/icons/watchlist-icon.svg" alt="watchlist-icon" />
                     <span>WATCHLIST</span>
                 </a>
+
+                <a href="/">
+                    <img src="/images/icons/original-icon.svg" alt="original-icon" />
+                    <span>ORIGINALS</span>
+                </a>
+                
+                <a href="/">
+                    <img src="/images/icons/movie-icon.svg" alt="movie-icon" />
+                    <span>MOVIES</span>
+                </a>
+                
+                <a href="/">
+                    <img src="/images/icons/series-icon.svg" alt="series-icon" />
+                    <span>SERIES</span>
+                </a>
             </NavMenu>
         </Nav>
     )
