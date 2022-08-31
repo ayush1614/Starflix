@@ -7,6 +7,7 @@ function Header() {
         <Nav>
             <Logo src='/images/logo.svg' />
             <NavMenu >
+             {/* eslint-disable  */}
                 <a>
                     <img src="/images/icons/home-icon.svg" alt="home-icon" />
                     <span>HOME</span>
