@@ -17,10 +17,16 @@ function ImageSlider() {
     return (
         <Carousel {...settings}>
             <Wrap>
-                <img src="/images/slider/slider-badging.jpg" alt="" />
+                <img src="/images/slider/badging.jpg" alt="" />
             </Wrap>
             <Wrap>
-                <img src="/images/slider/slider-badag.jpg" alt="" />
+                <img src="/images/slider/badag.jpg" alt="" />
+            </Wrap>
+            <Wrap>
+                <img src="/images/slider/scale.jpg" alt="" />
+            </Wrap>
+            <Wrap>
+                <img src="/images/slider/scales.jpg" alt="" />
             </Wrap>
         </Carousel>
     )
@@ -30,6 +36,8 @@ export default ImageSlider;
 
 const Carousel = styled(Slider)`
     margin-top: -30px ;
+    margin-bottom: 40px;
+
     ul li button{
         &:before{
             font-size: 10px ;
