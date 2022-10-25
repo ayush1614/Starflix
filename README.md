@@ -1,3 +1,11 @@
+# StarFlix
+
+▪ This is a `web application` for entertainment purposes like streaming of online movies, news, cricket etc. like hotstar or Netflix.
+▪ It uses the styled components library for components and for Log-In/Sign-Up it uses Firebase, Google Login/SignUp functionalities and with custom Login Support also.
+▪ It is designed with additional features like, multiple profiles in same account, sliding video player etc. including rental plans facility.
+▪ It uses Redux functionalities for the containing the states of components.
+▪ It is under development.
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
